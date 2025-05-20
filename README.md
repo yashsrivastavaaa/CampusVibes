@@ -11,7 +11,7 @@ CampusVibes is a React Native-based mobile application designed to keep students
 **Step 2:** Scan the QR code below using the Expo Go app to launch CampusVibes instantly.
 
 <p>
-  <img src="https://raw.githubusercontent.com/yashsrivastavaaa/CampusVibes/refs/heads/main/assets/images/Version_1_dot_4.png" height="410" width="613" alt="CampusVibes QR Code">
+  <img src="https://raw.githubusercontent.com/yashsrivastavaaa/CampusVibes/refs/heads/main/assets/images/Version_1_dot_4.png" height="308" width="312" alt="CampusVibes QR Code">
 </p>
 
 > ⚠️ Ensure your mobile device is connected with active internet.
